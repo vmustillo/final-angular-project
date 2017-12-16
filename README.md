@@ -16,8 +16,8 @@ npm list -g ng
 src/app/components
 src/app/services
 ```
-+ create component; teacherList
-+ create service; teacherListData
++ create component; teacherList  in above components directory
++ create service; teacherListData in above services directory
 + in TeacherListDataService export Teacher interface of;
 ```
   teacherId: string,
