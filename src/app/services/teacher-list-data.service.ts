@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
-import { Http } from '@angular/http'; // NOTE ilker importing Http
-import 'rxjs/add/operator/map'; // NOTE ilker importing react JS extension operator map
+import { Http } from '@angular/http'; // importing Http
+import 'rxjs/add/operator/map'; // importing react JS extension operator map
 
 @Injectable()
 export class TeacherListDataService {
